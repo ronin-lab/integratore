@@ -1,0 +1,12 @@
+finire metodi:
+	RK2
+	leapfrog
+
+controllare gli altri metodi (vedere se si puo' fare il tutto direttamente con forza)
+
+controllare BASIC e aggiungere il necessario a integratore (dovrebbe essere scritto nei commenti)
+
+script: controllare che funzioni a dovere/ottimizzare -> soprattutto per l'immissione da terminale
+
+makefile: vedi script
+	eseguire script da dentro il makefile 
